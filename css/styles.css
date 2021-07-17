@@ -1,0 +1,39 @@
+
+
+body {
+background-color:#E8F6EF;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+border-color: #04009A;
+width: 40px;
+
+
+
+}
+h1{font-family: cursive;
+  color: #77ACF1;
+}
+h2{font-family: cursive;
+  color: #4C4C6D;
+}
+h3{font-family: cursive;
+  color: #4C4C6D;
+}
+h4{font-family: cursive;
+    color: #4C4C6D;
+}
+h5{font-family: cursive;
+    color: #4C4C6D;
+}
+h6{font-family: cursive;
+    color: #4C4C6D;
+}
+p{font-family: cursive;
+    color: #4C4C6D;
+}
+a{font-family: cursive;
+    color: #F38BA0;
+}
